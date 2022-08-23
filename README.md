@@ -19,8 +19,7 @@ _Grupo 05 - Turno A - 2022A_
 
 _Integrantes del grupo de trabajo_
 
-* **Huaman Maque Rodrigo Sebastian** - *Encardado de ...* - [mengano](https://github.com/)
-* **Chavez Nina Braulio Armando** - *Encardado de ...* - [Braulio20182313](https://github.com/Braulio20182313)
-* **Agramonte Mayhua Indira Zonali** - *Encardado de ...* - [fulanitodetal](#fulanito-de-tal)
-* **Coaquira Cuevas Edith Maricarmen** - *Encardado de ...* - [fulanitodetal](#fulanito-de-tal)
-* **Luis Fermando Quispe Puma** - *Encardado de ...* - [fulanitodetal](#fulanito-de-tal)
+* **Huaman Maque Rodrigo Sebastian** - *programador* 
+* **Chavez Nina Braulio Armando** - *programador* - [Braulio20182313](https://github.com/Braulio20182313)
+* **Agramonte Mayhua Indira Zonali** - *Analista - Tester*
+* **Coaquira Cuevas Edith Maricarmen** - *Analista - Tester*
